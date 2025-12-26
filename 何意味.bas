@@ -21,3 +21,4 @@
 210 IF a$ = "Gb" THEN PRINT "Gb - Ab - Bb - Cb - Db - Eb - F - Gb"
 220 IF a$ = "Ab" THEN PRINT "Ab - Bb - C - Db - Eb - F - G - Ab"
 230 IF a$ = "Bb" THEN PRINT "Bb - C - D - Eb - F - G - A - Bb"
+240 END
